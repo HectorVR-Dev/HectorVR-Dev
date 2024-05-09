@@ -1,5 +1,4 @@
 ### Hi there 👋
-## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@HectorVR-Dev/30-nites-of-code)  
   ![@HectorVR-Dev #30NitesOfCode](https://www.codedex.io/api/petStatus?user=HectorVR-Dev)
 <!--
