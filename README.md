@@ -1,5 +1,4 @@
 ### Hi there 👋
-  [Check out my progress!](https://www.codedex.io/@HectorVR-Dev/30-nites-of-code)  
   ![@HectorVR-Dev #30NitesOfCode](https://www.codedex.io/api/petStatus?user=HectorVR-Dev)
 <!--
 **HectorVR-Dev/HectorVR-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
