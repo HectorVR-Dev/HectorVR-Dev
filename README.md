@@ -47,7 +47,7 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. M
 
 ## 🌟 Proyectos Destacados
 
-Proximamente estarán disponibles mis proyectos más destacados. ¡Mantente atento!
+Próximamente estarán disponibles mis proyectos más destacados. ¡Mantente atento!
 
 ## 📫 Conecta conmigo
 
